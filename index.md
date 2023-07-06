@@ -1,7 +1,4 @@
----
-layout: default
-title: Landscape Data Commons&#58; Data Portal
----
+
 {% include navigation.html %}
 
 # Data Portal
