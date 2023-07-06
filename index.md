@@ -12,6 +12,6 @@ This is an example of a home page for the Landscape Data Commons (LDC) data-port
 
 This is the first section of the LDC data-portal documentation page.
 
-## Section 2
+## Section 2 
 
 This is the second section of the LDC data-portal documentation page.
