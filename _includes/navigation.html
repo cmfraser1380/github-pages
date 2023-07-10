@@ -1,5 +1,6 @@
 <nav>
   {% for item in site.data.navigation %} 
+  <br/>item.name: {{ iten.link }} <br/>item.name: {{ page.url }} <br/>
      <span id='ldc-nav-links'><a href="{{ item.link }}" {% if item.link == page.url %}class="active" style="color: red;"{% endif %}>{{ item.name }}</a></span>
   {% endfor %}
 </nav>
