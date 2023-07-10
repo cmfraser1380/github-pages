@@ -3,6 +3,8 @@
 @import "variables";
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
 
+@import "ldc-styles";
+  
 @mixin large {
   @media screen and (min-width: #{$large-breakpoint}) {
     @content;
@@ -27,10 +29,11 @@
 
 /* 2023-07-09-CMF: Add LDC styles */
 /* BEGIN LDC STYLES */
+/*
 #ldc-nav-links {
   border: 1px solid #c6cbd1;
   border-radius: 4px;
-}
+}*/
 /* END LDC STYLES */
 
 body {
