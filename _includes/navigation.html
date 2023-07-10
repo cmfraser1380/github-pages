@@ -1,8 +1,7 @@
 <nav>
   {% assign page_url = '.' | append: page.url %}
   {% for item in site.data.navigation %} 
-  <br/>item.link: {{ item.link }} <br/>page_url: {{ page_url }} <br/>
-     <span id='ldc-nav-links'><a href="{{ item.link }}" {% if item.link == page_url %}class="active" style="color: red;"{% endif %}>{{ item.name }}</a></span>item.link == page_url {{item.link == page_url}}
+     <span id='ldc-nav-links'><a href="{{ item.link }}" {% if item.link == page_url %}class="ldc-active-nav-link"{% endif %}>{{ item.name }}</a></span>
   {% endfor %}
 </nav>
 
