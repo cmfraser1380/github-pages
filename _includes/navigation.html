@@ -1,6 +1,6 @@
 <nav>
   {% for item in site.data.navigation %}
-     <a href="{{ item.link }}" {% if item.link == page.url %}class="active"{% endif %} id='ldc-navigation-element'>
+     <a href="{{ item.link }}" {% if item.link == page.url %}class="active"{% endif %} id='ldc-nav-links'>
       {{ item.name }}
     </a>
   {% endfor %}
