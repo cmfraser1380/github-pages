@@ -1,5 +1,5 @@
 
-/* GOOGLE (APACHE) LICENSE INCLUDED WITH TOM JOHNSON'S documentation-theme-jekyll REPO (TOP NAVIGATION BAR ONLY) */ 
+## GOOGLE (APACHE) LICENSE INCLUDED WITH TOM JOHNSON'S documentation-theme-jekyll REPO (TOP NAVIGATION BAR ONLY; NOT CURRENTLY IN USE)
 Copyright 2021 Google LLC
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -15,7 +15,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 
-/* ORIGINAL LICENSE FOR CAYMAN THEME */
+## ORIGINAL LICENSE FOR CAYMAN THEME
 CC0 1.0 Universal
 
 Statement of Purpose
