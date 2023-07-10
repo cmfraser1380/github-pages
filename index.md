@@ -1,7 +1,6 @@
 
 {% include navigation.html %}
 
-HI!
 # Data Portal
 
 This is an example of a home page for the Landscape Data Commons (LDC) data-portal documentation site.
